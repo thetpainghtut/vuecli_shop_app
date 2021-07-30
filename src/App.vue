@@ -14,7 +14,7 @@
     </div>
     <router-view/>
   </div>
-</template>
+</template> 
 
 <script type="text/javascript">
   const axios = require('axios');
